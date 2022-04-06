@@ -1,0 +1,48 @@
+<map id="update_ionosph_model" name="update_ionosph_model">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1040,160,1067"/>
+<area shape="rect" id="node2" href="$structKFMeasEntry.html#a5af30258b0bcd703468c0d0ec2ed6d54" title="Adds a design matrix entry for this measurement." alt="" coords="213,5,399,32"/>
+<area shape="rect" id="node3" href="$trop_8cpp.html#aee11659ecea14ca59feae2dbe9f160d5" title="coefficients multiplication" alt="" coords="283,56,329,83"/>
+<area shape="rect" id="node4" href="$structKFState.html#abae5c2435fa3ca6bb4396cd8a5363f85" title="Combine a list of KFMeasEntrys into a single KFMeas object for used in the filter." alt="" coords="208,157,404,184"/>
+<area shape="rect" id="node6" href="$structKFState.html#a21a4858020ad706771efeea814d6c43f" title="Kalman filter operation." alt="" coords="234,512,378,539"/>
+<area shape="rect" id="node9" href="$structKFState.html#a34fe78e0ab7a8f1d122ceabddc29b207" title="Clears and initialises the state transition matrix to identity at the beginning of an epoch." alt="" coords="481,208,639,235"/>
+<area shape="rect" id="node17" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="716,1120,833,1147"/>
+<area shape="rect" id="node21" href="$structKFState.html#a84691f6bbbe3cdccaa14722995a61e1b" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="234,1272,378,1299"/>
+<area shape="rect" id="node22" href="$ionoModel_8cpp.html#a4622668d3884d0c08482824938b3bef1" title=" " alt="" coords="271,1323,341,1349"/>
+<area shape="rect" id="node26" href="$ionexWrite_8cpp.html#acc173449bd96cca3b965a66f47dcd7cf" title=" " alt="" coords="251,867,361,893"/>
+<area shape="rect" id="node27" href="$streamTrace_8cpp.html#a26d8a8c49d22d1ec101a45f8ee2e1fcc" title=" " alt="" coords="739,765,811,792"/>
+<area shape="rect" id="node31" href="$structKFState.html#ae1fc274c403b77dc814ed90763b4dea1" title="Least squares estimator for new kalman filter states." alt="" coords="225,1003,387,1045"/>
+<area shape="rect" id="node33" href="$biasSINEXwrite_8cpp.html#a3193a7ae3e27dfbd3caaaba922a113cb" title="Store bias output to write into bias SINEX files." alt="" coords="521,1221,599,1248"/>
+<area shape="rect" id="node39" href="$structKFState.html#a6b83754311ce0a082153ebe40ee63e15" title="Output keys and states in human readable format." alt="" coords="485,1120,635,1147"/>
+<area shape="rect" id="node40" href="$structKFMeasEntry.html#a1054abe38550bcd614c1a3c1afe752ee" title="Adds the measurement noise entry for this measurement." alt="" coords="227,1373,385,1400"/>
+<area shape="rect" id="node41" href="$structKFMeasEntry.html#a56ed46a7048dcd7e87e75eebc342dc7d" title="Adds the actual measurement value for this measurement." alt="" coords="227,1424,385,1451"/>
+<area shape="rect" id="node42" href="$structKFState.html#a170d9c3a01bee9ec1f7264615b087c58" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="225,259,387,285"/>
+<area shape="rect" id="node43" href="$structTestStack.html#aff20cea87ae5eee6108b33d022913707" title="Compare matrix against test dataset." alt="" coords="240,1475,372,1501"/>
+<area shape="rect" id="node46" href="$ionoMeas_8cpp.html#add0172107e9a1a3adb2020a59f117b5f" title=" " alt="" coords="491,1069,629,1096"/>
+<area shape="rect" id="node5" href="$structKFState.html#a5aeeee0f20df8cc8c4747c1b5b18212f" title="Finds the position in the KF state vector of particular states." alt="" coords="489,157,631,184"/>
+<area shape="rect" id="node7" href="$structKFState.html#ae6e89a4dca53b4c6f8a5eadb1f61dd5c" title=" " alt="" coords="452,411,668,437"/>
+<area shape="rect" id="node8" href="$structKFState.html#adc93fe4d98f33b24037d09e712e8400a" title=" " alt="" coords="453,461,667,488"/>
+<area shape="rect" id="node10" href="$structKFState.html#a2280e82ccd3ebdefc388756580e5fad7" title="Compute Chi&#45;square increment based on pre&#45;fit residuals (innovations)" alt="" coords="477,512,643,539"/>
+<area shape="rect" id="node11" href="$structKFState.html#a5b591c7386c7fb734067424a097ca118" title="Kalman filter." alt="" coords="504,715,616,741"/>
+<area shape="rect" id="node13" href="$structKFState.html#a67bbec17e7e74bf5de0d83098281bfc0" title="Compute Chi&#45;square increment based on post&#45;fit residuals." alt="" coords="476,563,644,589"/>
+<area shape="rect" id="node14" href="$mongoWrite_8cpp.html#a2b60515d35b3ad7ac783de1d8539495f" title=" " alt="" coords="505,613,615,640"/>
+<area shape="rect" id="node15" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="505,259,615,285"/>
+<area shape="rect" id="node16" href="$structKFState.html#aab4e5ed0ddc781d8b4db8de02af119cc" title="Compare variances of measurements and filtered states to detect unreasonable values." alt="" coords="461,917,659,944"/>
+<area shape="rect" id="node18" href="$structKFState.html#a1d84b2acc0006963bdea090daa78685a" title="Compare variances of measurements and pre&#45;filtered states to detect unreasonable values Ref: Wang et ..." alt="" coords="469,664,651,691"/>
+<area shape="rect" id="node19" href="$algebraTrace_8hpp.html#a912bbc3ba390c6b3a01f7cae26a53588" title="Output filter state to a file for later reading." alt="" coords="506,309,614,336"/>
+<area shape="rect" id="node20" href="$structKFState.html#aa963c92f094f4c0f9d43eea2661723dd" title="Compute Chi&#45;square increment based on the change of fitting solution." alt="" coords="477,360,643,387"/>
+<area shape="rect" id="node12" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="732,968,817,995"/>
+<area shape="rect" id="node23" href="$ionoBSplines_8cpp.html#a16a3214e2871c66be3bbc50645ab00f8" title=" " alt="" coords="504,1323,616,1349"/>
+<area shape="rect" id="node24" href="$ionoSphericalCaps_8cpp.html#a9392c4c89dcced960834408d5a3c4eae" title=" " alt="" coords="500,1373,620,1400"/>
+<area shape="rect" id="node25" href="$ionoSpherical_8cpp.html#a0d27755d579e100f284507dea013ccad" title=" " alt="" coords="501,1272,619,1299"/>
+<area shape="rect" id="node28" href="$ionexWrite_8cpp.html#ab39c5645f3eb357675c413011fd05ee2" title=" " alt="" coords="495,816,625,843"/>
+<area shape="rect" id="node30" href="$ionexWrite_8cpp.html#a76d09929b06755f0ac27500c467f6ee8" title=" " alt="" coords="499,867,621,893"/>
+<area shape="rect" id="node29" href="$gTime_8cpp.html#abf196aa655d8ca10168c2301a68a8101" title=" " alt="" coords="735,1069,814,1096"/>
+<area shape="rect" id="node32" href="$structKFState.html#a326b2c602fc4aaa81c0342cb0333932f" title="Perform chi squared quality control." alt="" coords="504,1019,616,1045"/>
+<area shape="rect" id="node34" href="$biasSINEXwrite_8cpp.html#a961567e1b6659842a971db2d3cc759fc" title="Determine if the bias is an OSB or DSB given observation codes." alt="" coords="737,1221,812,1248"/>
+<area shape="rect" id="node35" href="$gTime_8cpp.html#a6ab7d9a372acf84508cf00f0befd6095" title=" " alt="" coords="735,1272,814,1299"/>
+<area shape="rect" id="node36" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="735,1323,815,1349"/>
+<area shape="rect" id="node37" href="$biasSINEXwrite_8cpp.html#a39dff45cfb618319d83537ea39018e82" title="convert time to yds (doy in bias SINEX starts at 1)" alt="" coords="733,1373,817,1400"/>
+<area shape="rect" id="node38" href="$structSatSys.html#a1da3994cf03ff0ec115928954c9307bb" title=" " alt="" coords="729,1171,820,1197"/>
+<area shape="rect" id="node44" href="$structTestStack.html#afbc78d5bcc032f03034721e763558313" title="Get the test stack as a string." alt="" coords="490,1449,630,1476"/>
+<area shape="rect" id="node45" href="$algebra__old_8cpp.html#a1d2c1ecab5b17dcc773fcd83c0b87b7e" title=" " alt="" coords="538,1500,582,1527"/>
+</map>

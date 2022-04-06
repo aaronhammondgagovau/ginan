@@ -1,0 +1,12 @@
+<map id="SatSys::blockType" name="SatSys::blockType">
+<area shape="rect" id="node1" title=" " alt="" coords="381,132,511,159"/>
+<area shape="rect" id="node2" href="$structACSConfig.html#a9f893b7ab2412f42ef7a02423d755940" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="176,132,333,159"/>
+<area shape="rect" id="node5" href="$orbits_8cpp.html#adbf44cc33c6497cf698ffbae0894eb14" title=" " alt="" coords="23,5,110,32"/>
+<area shape="rect" id="node9" href="$structSatSys.html#aa2f7732319c19c6aa872606483a9c471" title=" " alt="" coords="180,233,329,260"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a5cb00ded83c966f68284b841c381d1f0" title=" " alt="" coords="12,56,121,83"/>
+<area shape="rect" id="node4" href="$networkEstimator_8cpp.html#a36828506971a6b66c6e61db51197c9e1" title="Estimates parameters for a network of stations simultaneously." alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node6" href="$ppp__user_8cpp.html#a6840432dd58d1e58178b15080b92bdd8" title=" " alt="" coords="29,157,104,184"/>
+<area shape="rect" id="node7" href="$ppppp__obs_8cpp.html#a3db2ffced7ab37c4874c3a53fcb7953e" title=" " alt="" coords="23,208,111,235"/>
+<area shape="rect" id="node8" href="$ppppp__pseudoobs_8cpp.html#ab255260e2ca2e89c21d280174f5a5a0b" title=" " alt="" coords="14,259,119,285"/>
+<area shape="rect" id="node10" href="$orbits_8cpp.html#acb6ef72cfd9fedf32fed4c3e94c57ae6" title="read orbit file from POD" alt="" coords="31,309,103,336"/>
+</map>

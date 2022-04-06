@@ -1,0 +1,5 @@
+<map id="writeBiasSinex" name="writeBiasSinex">
+<area shape="rect" id="node1" title="Write stored bias output to SINEX file Return number of written biases (&#45;1 if file not found)" alt="" coords="196,31,304,57"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a93c49123b4afe8e199430439fd682acd" title=" " alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node3" href="$debug_8cpp.html#a4a16ea2b439980faafb02d08cc68384d" title=" " alt="" coords="15,56,138,83"/>
+</map>

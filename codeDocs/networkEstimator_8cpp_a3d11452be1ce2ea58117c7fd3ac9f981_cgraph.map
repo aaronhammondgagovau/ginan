@@ -1,0 +1,5 @@
+<map id="removeBadIonospheres" name="removeBadIonospheres">
+<area shape="rect" id="node1" title="Remove ambiguity states from filter when they deemed old or bad This effectively reinitialises them o..." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$structKFState.html#a84691f6bbbe3cdccaa14722995a61e1b" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="215,5,359,32"/>
+<area shape="rect" id="node3" href="$structKFState.html#abdf1505bdab1895a280fd018979849f1" title="Remove a state from a kalman filter object." alt="" coords="212,56,363,83"/>
+</map>

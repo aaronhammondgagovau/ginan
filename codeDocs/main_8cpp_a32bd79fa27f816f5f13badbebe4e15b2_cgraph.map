@@ -1,0 +1,6 @@
+<map id="addStationDataFile" name="addStationDataFile">
+<area shape="rect" id="node1" title="Create a station object from a file." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$acsConfig_8cpp.html#aa470c1c369d2c030cdd6bd250a1ed375" title="Check that filename is valid and the file exists." alt="" coords="212,5,319,32"/>
+<area shape="rect" id="node3" href="$structACSConfig.html#a7ddfbaf20a1c9181d73d0dabe92beace" title="Set receiver options for a specific receiver using a hierarchy of sources." alt="" coords="185,56,345,83"/>
+<area shape="rect" id="node4" href="$acsConfig_8cpp.html#a93b507f5cfa7760051904a0a1863118a" title="Set satellite options from yaml." alt="" coords="393,56,493,83"/>
+</map>

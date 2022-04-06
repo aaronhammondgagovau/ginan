@@ -1,0 +1,16 @@
+<map id="yaw_gal" name="yaw_gal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,477,75,503"/>
+<area shape="rect" id="node2" href="$beta__angle_8f90.html#aa3986ad6e3bbfff7cbb65b502e569723" title=" " alt="" coords="433,477,518,503"/>
+<area shape="rect" id="node5" href="$yaw__gal__foc_8f95.html#ad93e13e825c3fadd4d81387a7f221846" title=" " alt="" coords="123,198,217,225"/>
+<area shape="rect" id="node12" href="$yaw__gal__iov_8f95.html#ad0d821626226c57a73daff356928cd52" title=" " alt="" coords="123,477,217,503"/>
+<area shape="rect" id="node3" href="$productcross_8f90.html#a2e59e22456af10602cf068c75f925c76" title=" " alt="" coords="587,223,684,250"/>
+<area shape="rect" id="node4" href="$productdot_8f90.html#a14430d9cb0b48474effeb33068eaf0ed" title=" " alt="" coords="594,173,677,199"/>
+<area shape="rect" id="node6" href="$colinear__pred_8f95.html#a55a0c9a0050e1af1966dca5ef964f2f3" title=" " alt="" coords="265,71,364,98"/>
+<area shape="rect" id="node7" href="$colinearity__angle_8f95.html#a2e974b64f29e0f8d1a0a9e77fe56cba1" title=" " alt="" coords="416,97,535,123"/>
+<area shape="rect" id="node8" href="$algebra__old_8cpp.html#adc33998911a24938042604ba1f8e6196" title=" " alt="" coords="282,375,347,402"/>
+<area shape="rect" id="node9" href="$yaw__gal__foc__nom_8f95.html#a1871486b3a439e4e3fc2f63063603d07" title=" " alt="" coords="412,173,539,199"/>
+<area shape="rect" id="node10" href="$yaw__nom_8f90.html#add5fadccf74e8d81cc3552133d1ae49e" title=" " alt="" coords="276,325,353,351"/>
+<area shape="rect" id="node11" href="$yaw__pred_8f95.html#a7a64b9ed25e02702f50c28ba82422963" title=" " alt="" coords="276,173,353,199"/>
+<area shape="rect" id="node13" href="$beta__pred_8f90.html#a9230794c3d919d2bcd20c96901c31e3c" title=" " alt="" coords="275,527,354,554"/>
+<area shape="rect" id="node14" href="$trop_8cpp.html#a09f11d2057b22449a395bd4f02513a61" title=" " alt="" coords="291,629,338,655"/>
+</map>

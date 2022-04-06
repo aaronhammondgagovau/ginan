@@ -1,0 +1,23 @@
+<map id="Obs" name="Obs">
+<area shape="rect" id="node1" title="Observation, and data derived from it." alt="" coords="736,379,783,406"/>
+<area shape="rect" id="node2" href="$structRawObs.html" title="Raw observation data from a receiver." alt="" coords="308,113,380,139"/>
+<area shape="rect" id="node3" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="43,289,105,315"/>
+<area shape="rect" id="node10" href="$structIonoStat.html" title=" " alt="" coords="309,230,379,257"/>
+<area shape="rect" id="node18" href="$structEph.html" title="GPS/QZS/GAL broadcast ephemeris." alt="" coords="322,395,366,422"/>
+<area shape="rect" id="node19" href="$structGeph.html" title=" " alt="" coords="317,598,371,625"/>
+<area shape="rect" id="node20" href="$structSeph.html" title=" " alt="" coords="318,651,370,678"/>
+<area shape="rect" id="node4" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="42,481,106,507"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,143,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,71,143,112"/>
+<area shape="rect" id="node7" href="$structIonoObs.html" title=" " alt="" coords="549,257,620,283"/>
+<area shape="rect" id="node8" title=" " alt="" coords="37,667,111,694"/>
+<area shape="rect" id="node9" href="$structSatStat.html" title="Object containing persistant status parameters of individual satellites." alt="" coords="551,307,618,334"/>
+<area shape="rect" id="node11" href="$structQC.html" title=" " alt="" coords="323,281,365,307"/>
+<area shape="rect" id="node12" title=" " alt="" coords="275,164,413,205"/>
+<area shape="rect" id="node13" href="$structSatNav.html" title=" " alt="" coords="551,527,618,554"/>
+<area shape="rect" id="node14" title=" " alt="" coords="268,497,420,523"/>
+<area shape="rect" id="node15" href="$structSSRMaps.html" title=" " alt="" coords="303,547,385,574"/>
+<area shape="rect" id="node16" href="$structSatOrbit.html" title=" " alt="" coords="309,822,379,849"/>
+<area shape="rect" id="node17" title=" " alt="" coords="35,849,113,875"/>
+<area shape="rect" id="node21" title=" " alt="" coords="307,446,381,473"/>
+</map>

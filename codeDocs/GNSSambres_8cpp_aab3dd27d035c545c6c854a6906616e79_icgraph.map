@@ -1,0 +1,6 @@
+<map id="lambda_search" name="lambda_search">
+<area shape="rect" id="node1" title="Lambda algorithm and its variations (ILQ, Common set, BIE)" alt="" coords="296,31,407,57"/>
+<area shape="rect" id="node2" href="$GNSSambres_8cpp.html#a5828fccde37f3654b3bd28203461dc8b" title="Ambiguity resolution function for Ginan." alt="" coords="163,31,248,57"/>
+<area shape="rect" id="node3" href="$GinARWLamb_8cpp.html#a6cfe77e4642a57d54c9204244cd403a0" title="Resolve wide&#45;lane ambiguities." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node4" href="$GinARNLamb_8cpp.html#a150b7e4a892320cadb8bfd4c813a1aca" title="Update float ambiguity estimates." alt="" coords="10,56,110,83"/>
+</map>

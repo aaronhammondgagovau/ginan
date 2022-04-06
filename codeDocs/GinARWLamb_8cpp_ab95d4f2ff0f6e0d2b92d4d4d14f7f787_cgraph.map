@@ -1,0 +1,31 @@
+<map id="updat_WLfilt" name="updat_WLfilt">
+<area shape="rect" id="node1" title="Update WL filter." alt="" coords="5,791,100,817"/>
+<area shape="rect" id="node2" href="$structKFMeasEntry.html#a5af30258b0bcd703468c0d0ec2ed6d54" title="Adds a design matrix entry for this measurement." alt="" coords="153,5,339,32"/>
+<area shape="rect" id="node3" href="$structKFState.html#abae5c2435fa3ca6bb4396cd8a5363f85" title="Combine a list of KFMeasEntrys into a single KFMeas object for used in the filter." alt="" coords="148,173,344,200"/>
+<area shape="rect" id="node5" href="$structKFState.html#a21a4858020ad706771efeea814d6c43f" title="Kalman filter operation." alt="" coords="174,512,318,539"/>
+<area shape="rect" id="node8" href="$structKFState.html#a34fe78e0ab7a8f1d122ceabddc29b207" title="Clears and initialises the state transition matrix to identity at the beginning of an epoch." alt="" coords="421,208,579,235"/>
+<area shape="rect" id="node11" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="672,537,757,564"/>
+<area shape="rect" id="node14" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="445,765,555,792"/>
+<area shape="rect" id="node16" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="656,917,773,944"/>
+<area shape="rect" id="node20" href="$structKFState.html#a84691f6bbbe3cdccaa14722995a61e1b" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="174,1019,318,1045"/>
+<area shape="rect" id="node21" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="460,917,540,944"/>
+<area shape="rect" id="node22" href="$structKFState.html#ae1fc274c403b77dc814ed90763b4dea1" title="Least squares estimator for new kalman filter states." alt="" coords="165,107,327,149"/>
+<area shape="rect" id="node24" href="$structKFState.html#a6b83754311ce0a082153ebe40ee63e15" title="Output keys and states in human readable format." alt="" coords="425,968,575,995"/>
+<area shape="rect" id="node25" href="$structKFState.html#abdf1505bdab1895a280fd018979849f1" title="Remove a state from a kalman filter object." alt="" coords="171,1069,321,1096"/>
+<area shape="rect" id="node26" href="$structKFMeasEntry.html#a1054abe38550bcd614c1a3c1afe752ee" title="Adds the measurement noise entry for this measurement." alt="" coords="167,1120,325,1147"/>
+<area shape="rect" id="node27" href="$structKFMeasEntry.html#a56ed46a7048dcd7e87e75eebc342dc7d" title="Adds the actual measurement value for this measurement." alt="" coords="167,1171,325,1197"/>
+<area shape="rect" id="node28" href="$structKFState.html#a170d9c3a01bee9ec1f7264615b087c58" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="165,275,327,301"/>
+<area shape="rect" id="node29" href="$GinARWLamb_8cpp.html#aff0cccb14678a58071b729bac061e776" title="save Resolved WL ambiguities" alt="" coords="197,816,295,843"/>
+<area shape="rect" id="node4" href="$structKFState.html#a5aeeee0f20df8cc8c4747c1b5b18212f" title="Finds the position in the KF state vector of particular states." alt="" coords="429,157,571,184"/>
+<area shape="rect" id="node6" href="$structKFState.html#ae6e89a4dca53b4c6f8a5eadb1f61dd5c" title=" " alt="" coords="392,664,608,691"/>
+<area shape="rect" id="node7" href="$structKFState.html#adc93fe4d98f33b24037d09e712e8400a" title=" " alt="" coords="393,309,607,336"/>
+<area shape="rect" id="node9" href="$structKFState.html#a2280e82ccd3ebdefc388756580e5fad7" title="Compute Chi&#45;square increment based on pre&#45;fit residuals (innovations)" alt="" coords="417,411,583,437"/>
+<area shape="rect" id="node10" href="$structKFState.html#a5b591c7386c7fb734067424a097ca118" title="Kalman filter." alt="" coords="444,360,556,387"/>
+<area shape="rect" id="node12" href="$structKFState.html#a67bbec17e7e74bf5de0d83098281bfc0" title="Compute Chi&#45;square increment based on post&#45;fit residuals." alt="" coords="416,461,584,488"/>
+<area shape="rect" id="node13" href="$mongoWrite_8cpp.html#a2b60515d35b3ad7ac783de1d8539495f" title=" " alt="" coords="445,512,555,539"/>
+<area shape="rect" id="node15" href="$structKFState.html#aab4e5ed0ddc781d8b4db8de02af119cc" title="Compare variances of measurements and filtered states to detect unreasonable values." alt="" coords="401,715,599,741"/>
+<area shape="rect" id="node17" href="$structKFState.html#a1d84b2acc0006963bdea090daa78685a" title="Compare variances of measurements and pre&#45;filtered states to detect unreasonable values Ref: Wang et ..." alt="" coords="409,563,591,589"/>
+<area shape="rect" id="node18" href="$algebraTrace_8hpp.html#a912bbc3ba390c6b3a01f7cae26a53588" title="Output filter state to a file for later reading." alt="" coords="446,259,554,285"/>
+<area shape="rect" id="node19" href="$structKFState.html#aa963c92f094f4c0f9d43eea2661723dd" title="Compute Chi&#45;square increment based on the change of fitting solution." alt="" coords="417,613,583,640"/>
+<area shape="rect" id="node23" href="$structKFState.html#a326b2c602fc4aaa81c0342cb0333932f" title="Perform chi squared quality control." alt="" coords="444,107,556,133"/>
+</map>

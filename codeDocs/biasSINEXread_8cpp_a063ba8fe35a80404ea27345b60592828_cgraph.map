@@ -1,0 +1,7 @@
+<map id="decomposeBGDBias" name="decomposeBGDBias">
+<area shape="rect" id="node1" title="Convert GAL BGDs into OSBs &amp; DSB." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="210,5,290,32"/>
+<area shape="rect" id="node4" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="499,31,616,57"/>
+<area shape="rect" id="node5" href="$biasSINEXread_8cpp.html#a6a51f9914e96ab2fec060c9463b86ae4" title="Push forward and reverse bias entry into the SINEXBiases map." alt="" coords="196,107,304,133"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="352,5,451,32"/>
+</map>

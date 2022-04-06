@@ -1,0 +1,8 @@
+<map id="prange" name="prange">
+<area shape="rect" id="node1" title="Calculate pseudorange with code bias correction." alt="" coords="5,31,67,57"/>
+<area shape="rect" id="node2" href="$biasSINEXread_8cpp.html#ad8d3890eaff651716f2ad2d8240438c8" title="Search for hardware biases in phase and code." alt="" coords="115,56,213,83"/>
+<area shape="rect" id="node4" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="280,5,360,32"/>
+<area shape="rect" id="node3" href="$biasSINEXread_8cpp.html#a4ccebd721f67990485d488f06eb69ab5" title="Search for hardware bias for given measurmenet type." alt="" coords="287,56,353,83"/>
+<area shape="rect" id="node5" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="261,107,379,133"/>
+<area shape="rect" id="node6" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="277,157,363,184"/>
+</map>

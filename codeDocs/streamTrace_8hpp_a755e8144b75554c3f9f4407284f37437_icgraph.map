@@ -1,0 +1,8 @@
+<map id="traceFormatedFloat" name="traceFormatedFloat">
+<area shape="rect" id="node1" title=" " alt="" coords="389,56,524,83"/>
+<area shape="rect" id="node2" href="$rinexNavWrite_8cpp.html#ad6032ecaca96d9c55f6d307d1c7f09fe" title=" " alt="" coords="201,5,337,32"/>
+<area shape="rect" id="node4" href="$rinexNavWrite_8cpp.html#a7740f536df7f89a2483312817d815269" title=" " alt="" coords="196,56,341,83"/>
+<area shape="rect" id="node5" href="$biasSINEXwrite_8cpp.html#a4e4fe834c1dbcb6b4a41560de1d7432e" title="print bias SINEX data line" alt="" coords="203,107,334,133"/>
+<area shape="rect" id="node3" href="$rinexNavWrite_8cpp.html#adcdc6b6fa739eb37d934e1cc51f45d5a" title=" " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node6" href="$biasSINEXwrite_8cpp.html#aee560ba7f0a3ee3cb198627a9673c27e" title="Write stored bias output to SINEX file Return number of written biases (&#45;1 if file not found)" alt="" coords="23,107,131,133"/>
+</map>

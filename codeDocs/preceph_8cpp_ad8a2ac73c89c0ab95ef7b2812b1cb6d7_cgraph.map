@@ -1,0 +1,15 @@
+<map id="interpolate" name="interpolate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,88,209"/>
+<area shape="rect" id="node2" href="$structKFMeasEntry.html#a5af30258b0bcd703468c0d0ec2ed6d54" title="Adds a design matrix entry for this measurement." alt="" coords="141,5,327,32"/>
+<area shape="rect" id="node3" href="$structKFState.html#abae5c2435fa3ca6bb4396cd8a5363f85" title="Combine a list of KFMeasEntrys into a single KFMeas object for used in the filter." alt="" coords="136,56,332,83"/>
+<area shape="rect" id="node5" href="$structKFState.html#a84691f6bbbe3cdccaa14722995a61e1b" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="162,208,306,235"/>
+<area shape="rect" id="node6" href="$structKFState.html#ae1fc274c403b77dc814ed90763b4dea1" title="Least squares estimator for new kalman filter states." alt="" coords="153,259,315,301"/>
+<area shape="rect" id="node8" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="404,107,515,133"/>
+<area shape="rect" id="node9" href="$structKFMeasEntry.html#a1054abe38550bcd614c1a3c1afe752ee" title="Adds the measurement noise entry for this measurement." alt="" coords="155,325,313,352"/>
+<area shape="rect" id="node10" href="$structKFMeasEntry.html#a56ed46a7048dcd7e87e75eebc342dc7d" title="Adds the actual measurement value for this measurement." alt="" coords="155,376,313,403"/>
+<area shape="rect" id="node11" href="$structKFState.html#a170d9c3a01bee9ec1f7264615b087c58" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="153,157,315,184"/>
+<area shape="rect" id="node4" href="$structKFState.html#a5aeeee0f20df8cc8c4747c1b5b18212f" title="Finds the position in the KF state vector of particular states." alt="" coords="388,56,531,83"/>
+<area shape="rect" id="node7" href="$structKFState.html#a326b2c602fc4aaa81c0342cb0333932f" title="Perform chi squared quality control." alt="" coords="403,267,515,293"/>
+<area shape="rect" id="node12" href="$structKFState.html#a34fe78e0ab7a8f1d122ceabddc29b207" title="Clears and initialises the state transition matrix to identity at the beginning of an epoch." alt="" coords="380,208,539,235"/>
+<area shape="rect" id="node13" href="$algebraTrace_8hpp.html#a912bbc3ba390c6b3a01f7cae26a53588" title="Output filter state to a file for later reading." alt="" coords="405,157,513,184"/>
+</map>

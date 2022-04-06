@@ -1,0 +1,9 @@
+<map id="getBiasSinex" name="getBiasSinex">
+<area shape="rect" id="node1" title="Search for hardware biases in phase and code." alt="" coords="5,105,104,132"/>
+<area shape="rect" id="node2" href="$biasSINEXread_8cpp.html#a4ccebd721f67990485d488f06eb69ab5" title="Search for hardware bias for given measurmenet type." alt="" coords="161,29,228,56"/>
+<area shape="rect" id="node4" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="155,80,235,107"/>
+<area shape="rect" id="node6" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="432,105,549,132"/>
+<area shape="rect" id="node7" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="152,181,237,208"/>
+<area shape="rect" id="node3" href="$biasSINEXread_8cpp.html#a13d2a6b0ea3e17f103315f1f8a30b7c8" title="Recurser of bias chaining, i.e." alt="" coords="285,29,384,56"/>
+<area shape="rect" id="node5" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="285,80,384,107"/>
+</map>

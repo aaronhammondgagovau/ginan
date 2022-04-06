@@ -1,0 +1,21 @@
+<map id="avoidCollisions" name="avoidCollisions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,115,285"/>
+<area shape="rect" id="node2" href="$structACSConfig.html#a7ddfbaf20a1c9181d73d0dabe92beace" title="Set receiver options for a specific receiver using a hierarchy of sources." alt="" coords="163,19,323,45"/>
+<area shape="rect" id="node4" href="$structACSConfig.html#a9f893b7ab2412f42ef7a02423d755940" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="164,81,321,108"/>
+<area shape="rect" id="node9" href="$streamTrace_8hpp.html#a11d8bb0b71dca46dd29f27f595c70ddf" title=" " alt="" coords="195,132,290,159"/>
+<area shape="rect" id="node10" href="$GinAR__main_8cpp.html#ac65ef236f8110fb11702ded083059183" title="Initialize AR data maps for each station." alt="" coords="187,183,298,209"/>
+<area shape="rect" id="node11" href="$ephemeris_8cpp.html#a9f0efb8ea92b3f1fa36a85ce12b366f1" title=" " alt="" coords="191,233,295,260"/>
+<area shape="rect" id="node13" href="$ephemeris_8cpp.html#a45e085c47e8a0dea0de6413085f7d885" title=" " alt="" coords="186,284,299,311"/>
+<area shape="rect" id="node14" href="$gTime_8cpp.html#a7a747c44ca37f2ebe379fc4309d3cfba" title=" " alt="" coords="198,335,287,361"/>
+<area shape="rect" id="node15" href="$vmf3_8cpp.html#a7b5e56ac28f7f16ddb29c02ab2f8a77c" title=" " alt="" coords="214,385,271,412"/>
+<area shape="rect" id="node18" href="$rtkcmn_8cpp.html#ae8d22df7b58a50063804205a4bf0f00c" title=" " alt="" coords="201,436,284,463"/>
+<area shape="rect" id="node19" href="$gTime_8cpp.html#a282534ac1ef65d4844290ce80bf76fed" title="YMDHMS to Julian Day &#160;&#160;return : julian day." alt="" coords="199,487,287,513"/>
+<area shape="rect" id="node3" href="$acsConfig_8cpp.html#a93b507f5cfa7760051904a0a1863118a" title="Set satellite options from yaml." alt="" coords="385,5,485,32"/>
+<area shape="rect" id="node5" href="$structSatSys.html#a01de9e9cee76346f43550516bba9558e" title=" " alt="" coords="371,56,500,83"/>
+<area shape="rect" id="node6" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="548,183,628,209"/>
+<area shape="rect" id="node7" href="$structSatSys.html#a1da3994cf03ff0ec115928954c9307bb" title=" " alt="" coords="390,157,481,184"/>
+<area shape="rect" id="node8" href="$structSatSys.html#a099c890a6a613ec08f3260a51f0544f8" title=" " alt="" coords="373,208,498,235"/>
+<area shape="rect" id="node12" href="$ephemeris_8cpp.html#a1c8372fd221a0909216384e0b3fdced5" title="select ephememeris" alt="" coords="405,259,465,285"/>
+<area shape="rect" id="node16" href="$gTime_8cpp.html#af3de1769838cbab288c9fcc6ac07b2ad" title=" " alt="" coords="391,360,479,387"/>
+<area shape="rect" id="node17" href="$vmf3_8cpp.html#afdde0386a03a117fe2855e758ccb83fe" title=" " alt="" coords="397,411,473,437"/>
+</map>

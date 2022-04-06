@@ -1,0 +1,9 @@
+<map id="biasType" name="biasType">
+<area shape="rect" id="node1" title="Determine if the bias is an OSB or DSB given observation codes." alt="" coords="557,107,632,133"/>
+<area shape="rect" id="node2" href="$biasSINEXwrite_8cpp.html#a3193a7ae3e27dfbd3caaaba922a113cb" title="Store bias output to write into bias SINEX files." alt="" coords="405,69,483,96"/>
+<area shape="rect" id="node6" href="$biasSINEXwrite_8cpp.html#a4e4fe834c1dbcb6b4a41560de1d7432e" title="print bias SINEX data line" alt="" coords="379,132,509,159"/>
+<area shape="rect" id="node3" href="$GinARoutpt_8cpp.html#ad4f415d78e4f087a12117394dad0f6ee" title="Output phase biases." alt="" coords="219,5,287,32"/>
+<area shape="rect" id="node4" href="$debug_8cpp.html#a4a16ea2b439980faafb02d08cc68384d" title=" " alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node5" href="$ionoModel_8cpp.html#ab85ac3f246b5ef9cc88aa9f195c441a3" title=" " alt="" coords="176,107,331,133"/>
+<area shape="rect" id="node7" href="$biasSINEXwrite_8cpp.html#aee560ba7f0a3ee3cb198627a9673c27e" title="Write stored bias output to SINEX file Return number of written biases (&#45;1 if file not found)" alt="" coords="199,157,307,184"/>
+</map>

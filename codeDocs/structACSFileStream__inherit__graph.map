@@ -1,0 +1,6 @@
+<map id="ACSFileStream" name="ACSFileStream">
+<area shape="rect" id="node1" title="Interface to be used for file streams." alt="" coords="149,5,261,32"/>
+<area shape="rect" id="node2" href="$structFileRinexStream.html" title="Object that streams RINEX data from a file." alt="" coords="5,80,123,107"/>
+<area shape="rect" id="node3" href="$structFileRtcmStream.html" title="Object that streams RTCM data from a file." alt="" coords="147,80,263,107"/>
+<area shape="rect" id="node4" href="$structFileSp3Stream.html" title="Object that streams RINEX data from a file." alt="" coords="287,80,395,107"/>
+</map>

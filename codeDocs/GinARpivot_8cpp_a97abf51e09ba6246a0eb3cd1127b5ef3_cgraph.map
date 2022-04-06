@@ -1,0 +1,12 @@
+<map id="init_net_pivot" name="init_net_pivot">
+<area shape="rect" id="node1" title="Initialize Network pivot." alt="" coords="5,155,104,182"/>
+<area shape="rect" id="node2" href="$GinARpivot_8cpp.html#aa6bd501576fa27cf1dc55b457809b0e4" title="Add ambiguity to pivot tree." alt="" coords="307,155,385,182"/>
+<area shape="rect" id="node3" href="$GinARpivot_8cpp.html#a50a6ec448f33d1f09d19f2fb10e02299" title="Reset receiver on network pivot." alt="" coords="157,206,238,232"/>
+<area shape="rect" id="node6" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="596,104,681,131"/>
+<area shape="rect" id="node8" href="$GinARpivot_8cpp.html#a21c1788df5b3f78e43a230b1b1fc3a07" title="Reset satellite on network pivot." alt="" coords="157,104,238,131"/>
+<area shape="rect" id="node10" href="$GinARWLamb_8cpp.html#a847f714757d3b9ed6d45bae0778972b0" title="Remove ambiguities and biases for systems, end user." alt="" coords="152,282,243,308"/>
+<area shape="rect" id="node4" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="599,282,679,308"/>
+<area shape="rect" id="node5" href="$GinARWLamb_8cpp.html#a9b4b3f98983e846523263881d690dfaf" title="Remove ambiguities and biases for receivers, network." alt="" coords="291,256,401,283"/>
+<area shape="rect" id="node7" href="$GinARWLamb_8cpp.html#aff0cccb14678a58071b729bac061e776" title="save Resolved WL ambiguities" alt="" coords="449,282,548,308"/>
+<area shape="rect" id="node9" href="$GinARWLamb_8cpp.html#a860a609b53dc98b39334196fb6e0183e" title="Remove ambiguities and biases for satellites, network." alt="" coords="291,104,401,131"/>
+</map>

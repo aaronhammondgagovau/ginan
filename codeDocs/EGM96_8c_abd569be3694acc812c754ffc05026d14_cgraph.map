@@ -1,0 +1,7 @@
+<map id="undulation" name="undulation">
+<area shape="rect" id="node1" title="Compute the geoid undulation from the EGM96 potential coefficient model, for a given latitude and lon..." alt="" coords="5,81,87,108"/>
+<area shape="rect" id="node2" href="$EGM96_8c.html#a7b10c6becf3e8ad3f2d0312bbad9de56" title=" " alt="" coords="135,5,193,32"/>
+<area shape="rect" id="node3" href="$EGM96_8c.html#aa316fb1f9f56faa7306373b790f28629" title=" " alt="" coords="135,56,193,83"/>
+<area shape="rect" id="node4" href="$EGM96_8c.html#a8c85a3115be85a9f5e7b178634b5d837" title=" " alt="" coords="135,107,193,133"/>
+<area shape="rect" id="node5" href="$EGM96_8c.html#a9e3a8a3178041fc1a5f8a774ffa975a9" title=" " alt="" coords="135,157,193,184"/>
+</map>

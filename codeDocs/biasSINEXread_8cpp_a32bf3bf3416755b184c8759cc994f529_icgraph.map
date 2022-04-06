@@ -1,0 +1,6 @@
+<map id="code2str" name="code2str">
+<area shape="rect" id="node1" title="Convert enum observation code to code string." alt="" coords="352,31,424,57"/>
+<area shape="rect" id="node2" href="$biasSINEXread_8cpp.html#a0d267ad42d64d437a1ba9e022e341f7d" title="Decompose DSB or DCB into OSBs." alt="" coords="161,5,304,32"/>
+<area shape="rect" id="node3" href="$biasSINEXwrite_8cpp.html#a4e4fe834c1dbcb6b4a41560de1d7432e" title="print bias SINEX data line" alt="" coords="167,56,298,83"/>
+<area shape="rect" id="node4" href="$biasSINEXwrite_8cpp.html#aee560ba7f0a3ee3cb198627a9673c27e" title="Write stored bias output to SINEX file Return number of written biases (&#45;1 if file not found)" alt="" coords="5,56,113,83"/>
+</map>

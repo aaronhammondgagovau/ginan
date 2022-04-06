@@ -1,0 +1,12 @@
+<map id="yaw_angle" name="yaw_angle">
+<area shape="rect" id="node1" title=" " alt="" coords="383,144,465,171"/>
+<area shape="rect" id="node2" href="$att__matrix_8f95.html#ac1f312f7022d981046ebb52cb86c69b2" title=" " alt="" coords="246,43,325,69"/>
+<area shape="rect" id="node5" href="$eclips_8f.html#ad28e824e74dfc3ff46e8b95a16e1859d" title=" " alt="" coords="257,93,313,120"/>
+<area shape="rect" id="node7" href="$eclips2017_8f.html#aeef50b1c85cfcccd2af9f1ff36ac1e53" title=" " alt="" coords="243,144,327,171"/>
+<area shape="rect" id="node8" href="$eclips201707_8f.html#a66d62d72ea7bea6c94d758d5d46ef05f" title=" " alt="" coords="236,195,335,221"/>
+<area shape="rect" id="node9" href="$yaw__pred_8f95.html#a7a64b9ed25e02702f50c28ba82422963" title=" " alt="" coords="247,245,324,272"/>
+<area shape="rect" id="node3" href="$namespacem__attitude__orb.html#a6774b828c8d074a0663c16789c93e771" title=" " alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node4" href="$namespacem__write__orbex.html#a5a00de55ee2834d59d6d5f90dcb5cb08" title=" " alt="" coords="27,57,167,98"/>
+<area shape="rect" id="node6" href="$yaw__attitude_8f90.html#a2a7b2be081a9bc47101a253d8a94b7e3" title=" " alt="" coords="49,144,144,171"/>
+<area shape="rect" id="node10" href="$yaw__gal__foc_8f95.html#ad93e13e825c3fadd4d81387a7f221846" title=" " alt="" coords="49,245,144,272"/>
+</map>

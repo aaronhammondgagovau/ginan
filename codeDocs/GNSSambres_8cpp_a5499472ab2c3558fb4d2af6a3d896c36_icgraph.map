@@ -1,0 +1,6 @@
+<map id="Ztrans_reduction" name="Ztrans_reduction">
+<area shape="rect" id="node1" title="Lambda decorrelation (trough Z transform)" alt="" coords="297,31,416,57"/>
+<area shape="rect" id="node2" href="$GNSSambres_8cpp.html#a0c81d8384a1295cd8a6371a9c9968325" title="Integer bootstrapping." alt="" coords="142,5,246,32"/>
+<area shape="rect" id="node4" href="$GNSSambres_8cpp.html#aab3dd27d035c545c6c854a6906616e79" title="Lambda algorithm and its variations (ILQ, Common set, BIE)" alt="" coords="139,56,249,83"/>
+<area shape="rect" id="node3" href="$GNSSambres_8cpp.html#a5828fccde37f3654b3bd28203461dc8b" title="Ambiguity resolution function for Ginan." alt="" coords="5,31,91,57"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Find__rec" name="Find__rec">
+<area shape="rect" id="node1" title="Find receiver (in pivot tree) to link disconnected satellite." alt="" coords="343,31,421,57"/>
+<area shape="rect" id="node2" href="$GinARpivot_8cpp.html#a7c7fea331a772c2c0cea6f36588f1ec4" title="Update network pivot." alt="" coords="188,31,295,57"/>
+<area shape="rect" id="node3" href="$GinAR__main_8cpp.html#a5d80c7f56e03c96dc400839ceca50698" title="Ambiguity resolution for network solutions." alt="" coords="7,5,138,32"/>
+<area shape="rect" id="node4" href="$GinAR__main_8cpp.html#a99547395860accf77f4d3dc4328cb139" title="Ambiguity resolution on smoothed KF solutions." alt="" coords="5,56,140,83"/>
+</map>

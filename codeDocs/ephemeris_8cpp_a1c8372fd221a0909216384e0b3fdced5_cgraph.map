@@ -1,0 +1,8 @@
+<map id="seleph" name="seleph">
+<area shape="rect" id="node1" title="select ephememeris" alt="" coords="5,56,65,83"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="132,5,212,32"/>
+<area shape="rect" id="node4" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="113,56,231,83"/>
+<area shape="rect" id="node6" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="129,107,215,133"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="279,5,377,32"/>
+<area shape="rect" id="node5" href="$gTime_8cpp.html#a016d7b64e67752afcd07e5074a3cc516" title=" " alt="" coords="293,56,363,83"/>
+</map>

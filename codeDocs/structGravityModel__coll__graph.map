@@ -1,0 +1,6 @@
+<map id="GravityModel" name="GravityModel">
+<area shape="rect" id="node1" title="The gravity model of the central body." alt="" coords="90,213,189,240"/>
+<area shape="rect" id="node2" href="$structEarthGravityDeg.html" title=" " alt="" coords="5,109,121,136"/>
+<area shape="rect" id="node3" href="$structEGMCoef.html" title="Struct to save Earth gravity coefficients." alt="" coords="176,109,255,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="179,5,252,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m_tides_ocean::tides_ocean" name="m_tides_ocean::tides_ocean">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,149,65"/>
+<area shape="rect" id="node2" href="$delaunay_8f90.html#a62e08be1aa38b3ef29947ef86e06513a" title=" " alt="" coords="200,5,273,32"/>
+<area shape="rect" id="node3" href="$gmst__iers_8f95.html#a2fce4c912b61b57f653a9b3996171295" title=" " alt="" coords="197,56,276,83"/>
+<area shape="rect" id="node4" href="$time__TT_8f90.html#aac4be73ca07f0d71843391b034a7d20e" title=" " alt="" coords="324,56,387,83"/>
+</map>

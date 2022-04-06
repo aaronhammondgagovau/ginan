@@ -1,0 +1,5 @@
+<map id="PseudoObsStream" name="PseudoObsStream">
+<area shape="rect" id="node1" title="Interface for streams that supply observations." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$structSP3Stream.html" title="Interface for rinex streams." alt="" coords="27,80,116,107"/>
+<area shape="rect" id="node3" href="$structFileSp3Stream.html" title="Object that streams RINEX data from a file." alt="" coords="17,155,125,181"/>
+</map>

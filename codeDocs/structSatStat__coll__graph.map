@@ -1,0 +1,12 @@
+<map id="SatStat" name="SatStat">
+<area shape="rect" id="node1" title="Object containing persistant status parameters of individual satellites." alt="" coords="198,407,265,433"/>
+<area shape="rect" id="node2" href="$structIonoStat.html" title=" " alt="" coords="5,145,76,172"/>
+<area shape="rect" id="node3" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="63,5,125,32"/>
+<area shape="rect" id="node7" href="$structlc__t.html" title=" " alt="" coords="127,95,170,121"/>
+<area shape="rect" id="node4" href="$structQC.html" title=" " alt="" coords="152,310,193,337"/>
+<area shape="rect" id="node5" href="$structAverage.html" title=" " alt="" coords="239,197,309,224"/>
+<area shape="rect" id="node6" href="$structflt__t.html" title="Cycle slip repair filter." alt="" coords="171,197,214,224"/>
+<area shape="rect" id="node8" title=" " alt="" coords="217,310,291,337"/>
+<area shape="rect" id="node9" title=" " alt="" coords="316,303,453,344"/>
+<area shape="rect" id="node10" href="$structSigStat.html" title="Object containing persistant status parameters of individual signals." alt="" coords="352,197,417,224"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="SatNav" name="SatNav">
+<area shape="rect" id="node1" title=" " alt="" coords="805,267,872,293"/>
+<area shape="rect" id="node2" title=" " alt="" coords="524,113,676,140"/>
+<area shape="rect" id="node3" href="$structSSRMaps.html" title=" " alt="" coords="559,164,641,191"/>
+<area shape="rect" id="node4" href="$structSatOrbit.html" title=" " alt="" coords="565,215,635,241"/>
+<area shape="rect" id="node5" href="$structInitialOrbit.html" title="&lt; initial orbit state info" alt="" coords="240,215,321,241"/>
+<area shape="rect" id="node6" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="13,379,77,405"/>
+<area shape="rect" id="node11" href="$structEph.html" title="GPS/QZS/GAL broadcast ephemeris." alt="" coords="259,267,303,293"/>
+<area shape="rect" id="node12" href="$structGeph.html" title=" " alt="" coords="254,513,307,540"/>
+<area shape="rect" id="node14" href="$structSeph.html" title=" " alt="" coords="255,379,307,405"/>
+<area shape="rect" id="node7" title=" " alt="" coords="189,142,372,183"/>
+<area shape="rect" id="node8" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="14,225,75,252"/>
+<area shape="rect" id="node9" title=" " alt="" coords="213,83,349,109"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,35,84,61"/>
+<area shape="rect" id="node13" title=" " alt="" coords="7,563,82,589"/>
+<area shape="rect" id="node15" title=" " alt="" coords="563,453,637,480"/>
+</map>

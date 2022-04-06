@@ -1,0 +1,9 @@
+<map id="readionexdcb" name="readionexdcb">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,104,133"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="166,5,246,32"/>
+<area shape="rect" id="node4" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="455,31,572,57"/>
+<area shape="rect" id="node5" href="$biasSINEXread_8cpp.html#a6a51f9914e96ab2fec060c9463b86ae4" title="Push forward and reverse bias entry into the SINEXBiases map." alt="" coords="152,107,260,133"/>
+<area shape="rect" id="node6" href="$biasSINEXread_8cpp.html#a67c1c7b63f5be7f1efbc0e06a3f581fc" title="Convert observation code string to enum code." alt="" coords="170,157,242,184"/>
+<area shape="rect" id="node7" href="$gTime_8cpp.html#aca21817ee2127e89013ae4252c5f9abe" title=" " alt="" coords="171,208,241,235"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="308,5,407,32"/>
+</map>

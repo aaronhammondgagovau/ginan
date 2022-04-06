@@ -1,0 +1,14 @@
+<map id="WL_newsect" name="WL_newsect">
+<area shape="rect" id="node1" title="save Resolved WL ambiguities" alt="" coords="805,178,904,205"/>
+<area shape="rect" id="node2" href="$GinARWLamb_8cpp.html#a9b4b3f98983e846523263881d690dfaf" title="Remove ambiguities and biases for receivers, network." alt="" coords="647,26,757,53"/>
+<area shape="rect" id="node7" href="$GinARWLamb_8cpp.html#a860a609b53dc98b39334196fb6e0183e" title="Remove ambiguities and biases for satellites, network." alt="" coords="647,178,757,205"/>
+<area shape="rect" id="node9" href="$GinARWLamb_8cpp.html#a847f714757d3b9ed6d45bae0778972b0" title="Remove ambiguities and biases for systems, end user." alt="" coords="657,128,747,154"/>
+<area shape="rect" id="node11" href="$GinARWLamb_8cpp.html#a12713865301eea1dac84952dd9fd1149" title="Update WL ambiguities and save then to archive." alt="" coords="485,280,599,306"/>
+<area shape="rect" id="node12" href="$GinARWLamb_8cpp.html#ab95d4f2ff0f6e0d2b92d4d4d14f7f787" title="Update WL filter." alt="" coords="655,229,749,256"/>
+<area shape="rect" id="node3" href="$GinARpivot_8cpp.html#a50a6ec448f33d1f09d19f2fb10e02299" title="Reset receiver on network pivot." alt="" coords="501,26,583,53"/>
+<area shape="rect" id="node5" href="$GinARpivot_8cpp.html#a7c7fea331a772c2c0cea6f36588f1ec4" title="Update network pivot." alt="" coords="184,125,291,152"/>
+<area shape="rect" id="node4" href="$GinARpivot_8cpp.html#a97abf51e09ba6246a0eb3cd1127b5ef3" title="Initialize Network pivot." alt="" coords="339,96,437,122"/>
+<area shape="rect" id="node6" href="$GinAR__main_8cpp.html#a5d80c7f56e03c96dc400839ceca50698" title="Ambiguity resolution for network solutions." alt="" coords="5,229,136,256"/>
+<area shape="rect" id="node8" href="$GinARpivot_8cpp.html#a21c1788df5b3f78e43a230b1b1fc3a07" title="Reset satellite on network pivot." alt="" coords="501,178,583,205"/>
+<area shape="rect" id="node10" href="$GinARpivot_8cpp.html#a302f284053c9e228c4c2cd2712d2c0cb" title="Update User Pivot." alt="" coords="489,128,595,154"/>
+</map>

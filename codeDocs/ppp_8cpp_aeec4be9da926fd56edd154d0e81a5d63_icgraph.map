@@ -1,0 +1,7 @@
+<map id="yaw_nominal" name="yaw_nominal">
+<area shape="rect" id="node1" title="Calculate nominal yaw&#45;angle." alt="" coords="284,31,381,57"/>
+<area shape="rect" id="node2" href="$ppp_8cpp.html#a6053b3464076332d20cdebf306bbcf86" title="Satellite attitude model." alt="" coords="153,5,224,32"/>
+<area shape="rect" id="node4" href="$yaw__attitude_8f90.html#a2a7b2be081a9bc47101a253d8a94b7e3" title=" " alt="" coords="141,56,236,83"/>
+<area shape="rect" id="node3" href="$ppp_8cpp.html#a16577502bd03c2d743d118a6993420d5" title="phase windup model" alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node5" href="$attitude_8f95.html#a8ee7764bdfc5e3bea9130e1ca999cb6d" title=" " alt="" coords="17,56,82,83"/>
+</map>

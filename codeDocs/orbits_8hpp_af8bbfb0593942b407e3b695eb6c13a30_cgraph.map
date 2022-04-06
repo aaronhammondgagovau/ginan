@@ -1,0 +1,9 @@
+<map id="orbPartials" name="orbPartials">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,89,108"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="156,5,236,32"/>
+<area shape="rect" id="node4" href="$preceph_8cpp.html#a3484687362aab309b89c125d59887180" title=" " alt="" coords="161,56,231,83"/>
+<area shape="rect" id="node5" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="137,107,255,133"/>
+<area shape="rect" id="node7" href="$streamTrace_8cpp.html#a26d8a8c49d22d1ec101a45f8ee2e1fcc" title=" " alt="" coords="160,157,232,184"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="303,5,401,32"/>
+<area shape="rect" id="node6" href="$gTime_8cpp.html#a016d7b64e67752afcd07e5074a3cc516" title=" " alt="" coords="317,107,387,133"/>
+</map>

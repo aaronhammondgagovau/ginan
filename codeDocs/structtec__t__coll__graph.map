@@ -1,0 +1,6 @@
+<map id="tec_t" name="tec_t">
+<area shape="rect" id="node1" title=" " alt="" coords="40,184,91,211"/>
+<area shape="rect" id="node2" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,95,67,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,95,250,121"/>
+<area shape="rect" id="node4" href="$structTECPoint.html" title=" " alt="" coords="132,5,209,32"/>
+</map>

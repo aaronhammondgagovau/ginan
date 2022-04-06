@@ -1,0 +1,11 @@
+<map id="updt_usr_pivot" name="updt_usr_pivot">
+<area shape="rect" id="node1" title="Update User Pivot." alt="" coords="5,159,112,185"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="456,32,536,59"/>
+<area shape="rect" id="node4" href="$GinARpivot_8cpp.html#a305e812bb1eb438ce681ed5483a2de05" title="Initilize end&#45;user AR pivot." alt="" coords="160,133,259,160"/>
+<area shape="rect" id="node5" href="$GinARpivot_8cpp.html#aa6bd501576fa27cf1dc55b457809b0e4" title="Add ambiguity to pivot tree." alt="" coords="317,184,395,211"/>
+<area shape="rect" id="node6" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="453,133,539,160"/>
+<area shape="rect" id="node7" href="$GinARWLamb_8cpp.html#a847f714757d3b9ed6d45bae0778972b0" title="Remove ambiguities and biases for systems, end user." alt="" coords="164,57,255,84"/>
+<area shape="rect" id="node9" href="$GinARpivot_8cpp.html#a5ca2893293b83cb290b9f34e3355bd99" title="Remove ambiguity from pivot tree." alt="" coords="165,285,253,312"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="587,32,685,59"/>
+<area shape="rect" id="node8" href="$GinARWLamb_8cpp.html#aff0cccb14678a58071b729bac061e776" title="save Resolved WL ambiguities" alt="" coords="307,32,405,59"/>
+</map>

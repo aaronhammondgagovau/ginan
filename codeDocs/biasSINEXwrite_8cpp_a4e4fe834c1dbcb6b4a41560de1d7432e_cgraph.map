@@ -1,0 +1,15 @@
+<map id="write_bSINEX_line" name="write_bSINEX_line">
+<area shape="rect" id="node1" title="print bias SINEX data line" alt="" coords="5,183,136,209"/>
+<area shape="rect" id="node2" href="$biasSINEXwrite_8cpp.html#a961567e1b6659842a971db2d3cc759fc" title="Determine if the bias is an OSB or DSB given observation codes." alt="" coords="214,5,289,32"/>
+<area shape="rect" id="node3" href="$biasSINEXread_8cpp.html#a32bf3bf3416755b184c8759cc994f529" title="Convert enum observation code to code string." alt="" coords="215,56,287,83"/>
+<area shape="rect" id="node4" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="211,107,291,133"/>
+<area shape="rect" id="node6" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="521,132,639,159"/>
+<area shape="rect" id="node7" href="$biasSINEXwrite_8cpp.html#a39dff45cfb618319d83537ea39018e82" title="convert time to yds (doy in bias SINEX starts at 1)" alt="" coords="209,208,293,235"/>
+<area shape="rect" id="node10" href="$structSatSys.html#a1da3994cf03ff0ec115928954c9307bb" title=" " alt="" coords="206,259,297,285"/>
+<area shape="rect" id="node11" href="$streamTrace_8cpp.html#a755e8144b75554c3f9f4407284f37437" title=" " alt="" coords="184,333,319,360"/>
+<area shape="rect" id="node13" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="377,384,463,411"/>
+<area shape="rect" id="node5" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="371,107,469,133"/>
+<area shape="rect" id="node8" href="$gTime_8cpp.html#aa46173b9085096882d09e53d96e9dc41" title=" " alt="" coords="375,208,465,235"/>
+<area shape="rect" id="node9" href="$gTime_8cpp.html#a7a747c44ca37f2ebe379fc4309d3cfba" title=" " alt="" coords="375,259,465,285"/>
+<area shape="rect" id="node12" href="$namespacepod__yaml.html#a59ea539cabb34ef7985e7e57c4b9dd93" title=" " alt="" coords="367,333,473,360"/>
+</map>

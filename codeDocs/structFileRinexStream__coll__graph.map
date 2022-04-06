@@ -1,0 +1,9 @@
+<map id="FileRinexStream" name="FileRinexStream">
+<area shape="rect" id="node1" title="Object that streams RINEX data from a file." alt="" coords="65,185,183,212"/>
+<area shape="rect" id="node2" href="$structACSFileStream.html" title="Interface to be used for file streams." alt="" coords="52,109,164,136"/>
+<area shape="rect" id="node3" href="$structRinexStream.html" title="Interface for rinex streams." alt="" coords="188,109,284,136"/>
+<area shape="rect" id="node4" href="$structObsStream.html" title="Interface for streams that supply observations." alt="" coords="5,13,93,39"/>
+<area shape="rect" id="node5" href="$structNavStream.html" title="Interface for objects that provide navigation data." alt="" coords="117,13,205,39"/>
+<area shape="rect" id="node6" title=" " alt="" coords="229,5,392,47"/>
+<area shape="rect" id="node7" title=" " alt="" coords="416,13,544,39"/>
+</map>

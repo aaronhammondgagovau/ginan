@@ -1,0 +1,9 @@
+<map id="Link_amb" name="Link_amb">
+<area shape="rect" id="node1" title="Add ambiguity to pivot tree." alt="" coords="461,103,540,129"/>
+<area shape="rect" id="node2" href="$GinARpivot_8cpp.html#a97abf51e09ba6246a0eb3cd1127b5ef3" title="Initialize Network pivot." alt="" coords="164,179,263,205"/>
+<area shape="rect" id="node3" href="$GinARpivot_8cpp.html#a7c7fea331a772c2c0cea6f36588f1ec4" title="Update network pivot." alt="" coords="5,153,112,180"/>
+<area shape="rect" id="node4" href="$GinARpivot_8cpp.html#a305e812bb1eb438ce681ed5483a2de05" title="Initilize end&#45;user AR pivot." alt="" coords="315,27,413,53"/>
+<area shape="rect" id="node5" href="$GinARpivot_8cpp.html#a302f284053c9e228c4c2cd2712d2c0cb" title="Update User Pivot." alt="" coords="160,52,267,79"/>
+<area shape="rect" id="node6" href="$GinARpivot_8cpp.html#a50a6ec448f33d1f09d19f2fb10e02299" title="Reset receiver on network pivot." alt="" coords="323,128,405,155"/>
+<area shape="rect" id="node7" href="$GinARpivot_8cpp.html#a21c1788df5b3f78e43a230b1b1fc3a07" title="Reset satellite on network pivot." alt="" coords="323,229,405,256"/>
+</map>

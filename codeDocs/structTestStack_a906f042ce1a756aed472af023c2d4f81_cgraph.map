@@ -1,0 +1,7 @@
+<map id="TestStack::testMat" name="TestStack::testMat">
+<area shape="rect" id="node1" title="Compare matrix against test dataset." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$algebra__old_8cpp.html#a1d2c1ecab5b17dcc773fcd83c0b87b7e" title=" " alt="" coords="413,5,457,32"/>
+<area shape="rect" id="node4" href="$structTestStack.html#aff20cea87ae5eee6108b33d022913707" title="Compare matrix against test dataset." alt="" coords="185,56,317,83"/>
+<area shape="rect" id="node3" href="$streamTrace_8cpp.html#a21317feb447406c5be7ca4a27dc3e862" title=" " alt="" coords="553,5,616,32"/>
+<area shape="rect" id="node5" href="$structTestStack.html#afbc78d5bcc032f03034721e763558313" title="Get the test stack as a string." alt="" coords="365,56,505,83"/>
+</map>

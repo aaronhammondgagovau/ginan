@@ -1,0 +1,5 @@
+<map id="SatSys" name="SatSys">
+<area shape="rect" id="node1" title="Object holding satellite id, and providing related functions." alt="" coords="25,5,89,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,179,136"/>
+<area shape="rect" id="node3" href="$structSatSys_1_1SatData.html" title=" " alt="" coords="140,5,257,32"/>
+</map>

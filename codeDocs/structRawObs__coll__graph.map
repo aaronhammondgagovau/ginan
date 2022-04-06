@@ -1,0 +1,10 @@
+<map id="RawObs" name="RawObs">
+<area shape="rect" id="node1" title="Raw observation data from a receiver." alt="" coords="215,206,287,233"/>
+<area shape="rect" id="node2" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,102,67,129"/>
+<area shape="rect" id="node3" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="415,102,479,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="349,199,523,240"/>
+<area shape="rect" id="node5" title=" " alt="" coords="91,95,229,136"/>
+<area shape="rect" id="node6" href="$structSig.html" title="Per signal data that is calculated from the raw signals." alt="" coords="139,5,181,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="253,95,390,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="256,5,387,32"/>
+</map>

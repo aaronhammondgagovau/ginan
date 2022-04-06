@@ -1,0 +1,11 @@
+<map id="ecef2eci_sofa" name="ecef2eci_sofa">
+<area shape="rect" id="node1" title="vector transformed from ecef to eci using the sofa library" alt="" coords="5,157,108,184"/>
+<area shape="rect" id="node2" href="$rtkcmn_8cpp.html#a470bf7b49dcb299ab533958252a1dfe0" title="eci to ecef transformation matrix using the sofa library" alt="" coords="156,157,259,184"/>
+<area shape="rect" id="node3" href="$sofa_8cpp.html#a3b42028734d3ce7dd47e3d81ca892644" title=" " alt="" coords="328,5,403,32"/>
+<area shape="rect" id="node4" href="$sofa_8cpp.html#af98e979c68de2a248f398a937ef9756a" title=" " alt="" coords="322,56,409,83"/>
+<area shape="rect" id="node5" href="$sofa_8cpp.html#acc3eee0acc7723d3affd70713db52da6" title=" " alt="" coords="325,107,405,133"/>
+<area shape="rect" id="node6" href="$sofa_8cpp.html#a5a8e3535b2f0b705f490de2afeeaa9ab" title=" " alt="" coords="472,132,527,159"/>
+<area shape="rect" id="node7" href="$sofa_8cpp.html#a67453ca6f553a7e734926529fce074bb" title=" " alt="" coords="331,208,400,235"/>
+<area shape="rect" id="node8" href="$structIERS.html#a5d7e8d9edc982b387583d37e96d331c0" title=" " alt="" coords="311,259,419,285"/>
+<area shape="rect" id="node9" href="$structIERS.html#a71ff4a9662a9a36ab018b8ff5084164f" title=" " alt="" coords="307,309,424,336"/>
+</map>

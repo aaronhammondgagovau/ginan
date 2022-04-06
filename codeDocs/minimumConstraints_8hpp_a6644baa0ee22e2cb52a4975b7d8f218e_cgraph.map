@@ -1,0 +1,22 @@
+<map id="minimum" name="minimum">
+<area shape="rect" id="node1" title=" " alt="" coords="5,284,80,311"/>
+<area shape="rect" id="node2" href="$structKFMeasEntry.html#a5af30258b0bcd703468c0d0ec2ed6d54" title="Adds a design matrix entry for this measurement." alt="" coords="133,5,319,32"/>
+<area shape="rect" id="node3" href="$structKFState.html#abae5c2435fa3ca6bb4396cd8a5363f85" title="Combine a list of KFMeasEntrys into a single KFMeas object for used in the filter." alt="" coords="128,56,324,83"/>
+<area shape="rect" id="node5" href="$structKFState.html#a84691f6bbbe3cdccaa14722995a61e1b" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="154,259,298,285"/>
+<area shape="rect" id="node6" href="$structACSConfig.html#a92bff361b02a9eb9de0296f29e7e1091" title="Set minimum constraint options for a specific receiver using a hierarchy of sources." alt="" coords="135,309,317,336"/>
+<area shape="rect" id="node8" href="$structKFState.html#a34fe78e0ab7a8f1d122ceabddc29b207" title="Clears and initialises the state transition matrix to identity at the beginning of an epoch." alt="" coords="372,107,531,133"/>
+<area shape="rect" id="node9" href="$structKFState.html#a5b591c7386c7fb734067424a097ca118" title="Kalman filter." alt="" coords="395,361,507,388"/>
+<area shape="rect" id="node11" href="$structKFState.html#ae1fc274c403b77dc814ed90763b4dea1" title="Least squares estimator for new kalman filter states." alt="" coords="145,411,307,453"/>
+<area shape="rect" id="node13" href="$structKFState.html#a6b83754311ce0a082153ebe40ee63e15" title="Output keys and states in human readable format." alt="" coords="151,477,301,504"/>
+<area shape="rect" id="node15" href="$structKFMeasEntry.html#a1054abe38550bcd614c1a3c1afe752ee" title="Adds the measurement noise entry for this measurement." alt="" coords="147,528,305,555"/>
+<area shape="rect" id="node16" href="$structKFMeasEntry.html#a56ed46a7048dcd7e87e75eebc342dc7d" title="Adds the actual measurement value for this measurement." alt="" coords="147,579,305,605"/>
+<area shape="rect" id="node17" href="$algebraTrace_8hpp.html#a912bbc3ba390c6b3a01f7cae26a53588" title="Output filter state to a file for later reading." alt="" coords="397,208,505,235"/>
+<area shape="rect" id="node19" href="$structKFState.html#a170d9c3a01bee9ec1f7264615b087c58" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="145,157,307,184"/>
+<area shape="rect" id="node4" href="$structKFState.html#a5aeeee0f20df8cc8c4747c1b5b18212f" title="Finds the position in the KF state vector of particular states." alt="" coords="380,56,523,83"/>
+<area shape="rect" id="node7" href="$acsConfig_8cpp.html#a555e819507c7608d463fedb0616a95ff" title="Set an output from yaml object if found." alt="" coords="393,309,509,336"/>
+<area shape="rect" id="node10" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="600,416,685,443"/>
+<area shape="rect" id="node12" href="$structKFState.html#a326b2c602fc4aaa81c0342cb0333932f" title="Perform chi squared quality control." alt="" coords="395,416,507,443"/>
+<area shape="rect" id="node14" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="393,467,510,493"/>
+<area shape="rect" id="node18" href="$namespaceboost_1_1serialization.html#a206b384ce9422a3f13b14a1d0c9b5aa4" title=" " alt="" coords="579,201,707,242"/>
+<area shape="rect" id="node20" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="396,157,507,184"/>
+</map>

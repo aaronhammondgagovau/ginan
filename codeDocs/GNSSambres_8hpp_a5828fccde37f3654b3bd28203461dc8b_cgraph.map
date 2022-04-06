@@ -1,0 +1,12 @@
+<map id="GNSS_AR" name="GNSS_AR">
+<area shape="rect" id="node1" title="Ambiguity resolution function for Ginan." alt="" coords="5,196,91,223"/>
+<area shape="rect" id="node2" href="$GNSSambres_8cpp.html#a0c81d8384a1295cd8a6371a9c9968325" title="Integer bootstrapping." alt="" coords="142,164,246,191"/>
+<area shape="rect" id="node5" href="$GNSSambres_8cpp.html#aff65fc95b889a3af6c182c7093163bb8" title="Iterative Rounding." alt="" coords="145,227,243,253"/>
+<area shape="rect" id="node8" href="$GNSSambres_8cpp.html#aab3dd27d035c545c6c854a6906616e79" title="Lambda algorithm and its variations (ILQ, Common set, BIE)" alt="" coords="139,81,249,108"/>
+<area shape="rect" id="node10" href="$GNSSambres_8cpp.html#a8292074e76cf91e136884467b24318a0" title="Simple integer Rounding." alt="" coords="145,277,243,304"/>
+<area shape="rect" id="node3" href="$GNSSambres_8cpp.html#a5499472ab2c3558fb4d2af6a3d896c36" title="Lambda decorrelation (trough Z transform)" alt="" coords="297,107,416,133"/>
+<area shape="rect" id="node4" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="464,132,549,159"/>
+<area shape="rect" id="node6" href="$namespacepod__yaml.html#a59ea539cabb34ef7985e7e57c4b9dd93" title=" " alt="" coords="303,232,410,259"/>
+<area shape="rect" id="node7" href="$GNSSambres_8cpp.html#a5897898a8b668f0a88c9ef857d44713f" title="Probability of error (assuming normal distribution)" alt="" coords="315,283,398,309"/>
+<area shape="rect" id="node9" href="$lambda_8cpp.html#a7a45f828294c77c7e36d0a8cbfa229a3" title=" " alt="" coords="326,5,387,32"/>
+</map>

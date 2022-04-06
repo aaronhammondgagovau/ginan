@@ -1,0 +1,9 @@
+<map id="outp_bias" name="outp_bias">
+<area shape="rect" id="node1" title="Store bias output to write into bias SINEX files." alt="" coords="393,81,472,108"/>
+<area shape="rect" id="node2" href="$GinARoutpt_8cpp.html#ad4f415d78e4f087a12117394dad0f6ee" title="Output phase biases." alt="" coords="234,31,302,57"/>
+<area shape="rect" id="node5" href="$debug_8cpp.html#a4a16ea2b439980faafb02d08cc68384d" title=" " alt="" coords="207,81,329,108"/>
+<area shape="rect" id="node6" href="$ionoModel_8cpp.html#ab85ac3f246b5ef9cc88aa9f195c441a3" title=" " alt="" coords="191,132,345,159"/>
+<area shape="rect" id="node3" href="$GinAR__main_8cpp.html#a5d80c7f56e03c96dc400839ceca50698" title="Ambiguity resolution for network solutions." alt="" coords="9,5,139,32"/>
+<area shape="rect" id="node4" href="$GinAR__main_8cpp.html#a99547395860accf77f4d3dc4328cb139" title="Ambiguity resolution on smoothed KF solutions." alt="" coords="7,56,141,83"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a30c68344d30ddfe1e926f8472b86f094" title=" " alt="" coords="5,132,143,159"/>
+</map>

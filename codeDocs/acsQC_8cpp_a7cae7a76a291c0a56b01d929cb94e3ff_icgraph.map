@@ -1,0 +1,5 @@
+<map id="detslp_ll" name="detslp_ll">
+<area shape="rect" id="node1" title="Detect cycle slip by reported loss of lock." alt="" coords="385,5,456,32"/>
+<area shape="rect" id="node2" href="$acsQC_8cpp.html#ae13db6fb21721c9fcb1eb93ea40ba2ff" title="Detect slips for multiple observations." alt="" coords="252,5,337,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a7e63aa887c069bdb77cd28a88ad18562" title="Perform operations for each station This function occurs in parallel with other stations &#45; ensure tha..." alt="" coords="5,5,204,32"/>
+</map>

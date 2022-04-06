@@ -1,0 +1,8 @@
+<map id="checkValidFile" name="checkValidFile">
+<area shape="rect" id="node1" title="Check that filename is valid and the file exists." alt="" coords="348,81,455,108"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a32bd79fa27f816f5f13badbebe4e15b2" title="Create a station object from a file." alt="" coords="168,5,300,32"/>
+<area shape="rect" id="node4" href="$acsConfig_8cpp.html#a730af658b2d0567252d8a37b3982f2f3" title=" " alt="" coords="177,56,291,83"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a044cd088d8a6d17451b655ea49b820f7" title=" " alt="" coords="189,107,279,133"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a34804c3a0ffc29cad1548a9a3af91d45" title=" " alt="" coords="169,157,299,184"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a414f34e8bd65aa4d83398bab54236157" title=" " alt="" coords="5,107,120,133"/>
+</map>

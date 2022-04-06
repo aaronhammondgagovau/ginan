@@ -1,0 +1,18 @@
+<map id="getLC" name="getLC">
+<area shape="rect" id="node1" title="Create combinations between specific observation values." alt="" coords="741,233,799,260"/>
+<area shape="rect" id="node2" href="$acsQC_8cpp.html#ae52b478bb7d30e6aaf8f0e6b4e526681" title="Cycle slip detection and repair for dual&#45;frequency." alt="" coords="599,5,678,32"/>
+<area shape="rect" id="node3" href="$acsQC_8cpp.html#a099d227578f6d7896777651aca60fe1b" title="Cycle slip detection and repair." alt="" coords="454,81,533,108"/>
+<area shape="rect" id="node6" href="$acsQC_8cpp.html#a50b9ebf4a56ec6edec979531b0515887" title="Cycle slip detection and repair for triple&#45;frequency." alt="" coords="599,107,678,133"/>
+<area shape="rect" id="node7" href="$acsQC_8cpp.html#a0d2d4fd45a0cdf961784d89cc132442e" title="Detect cycle slip by geometry free phase jump." alt="" coords="456,157,531,184"/>
+<area shape="rect" id="node8" href="$acsQC_8cpp.html#a36663ab87649ee3624e072af7fec6409" title="Detect slip by Melbourne&#45;Wubbena linear combination jump." alt="" coords="451,208,536,235"/>
+<area shape="rect" id="node9" href="$linearCombo_8cpp.html#a5a4550126e0afcc4a997b359e8e75874" title="Get/calculate linear combination values for an observation." alt="" coords="610,259,667,285"/>
+<area shape="rect" id="node10" href="$linearCombo_8cpp.html#aa1b18e5a14543945bb9c7929e8aa4fce" title="Function to prepare some predefined linear combinations from an observation." alt="" coords="609,309,669,336"/>
+<area shape="rect" id="node12" href="$ppp_8cpp.html#ae6ff673a04fff8b0f78b4d1b111a2a42" title=" " alt="" coords="584,360,693,387"/>
+<area shape="rect" id="node14" href="$ppp__network_8cpp.html#a8841c4de50d731334b0aa349d64a2985" title=" " alt="" coords="606,411,671,437"/>
+<area shape="rect" id="node16" href="$ionoMeas_8cpp.html#a3dce4bc6a3c8a98b9f14fd6804d330c3" title=" " alt="" coords="252,455,403,481"/>
+<area shape="rect" id="node4" href="$acsQC_8cpp.html#ae13db6fb21721c9fcb1eb93ea40ba2ff" title="Detect slips for multiple observations." alt="" coords="285,183,370,209"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a7e63aa887c069bdb77cd28a88ad18562" title="Perform operations for each station This function occurs in parallel with other stations &#45; ensure tha..." alt="" coords="5,353,204,380"/>
+<area shape="rect" id="node11" href="$linearCombo_8cpp.html#a600e3c4eaf808e42c88785d56dc70350" title="Function to prepare some predefined linear combinations from a list of observations." alt="" coords="294,321,361,348"/>
+<area shape="rect" id="node13" href="$ppp__user_8cpp.html#a6840432dd58d1e58178b15080b92bdd8" title=" " alt="" coords="456,360,531,387"/>
+<area shape="rect" id="node15" href="$ppp__network_8cpp.html#a58f075aaa941ce20e727a84401270780" title=" " alt="" coords="293,379,361,405"/>
+</map>

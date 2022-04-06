@@ -1,0 +1,9 @@
+<map id="WL_newsect" name="WL_newsect">
+<area shape="rect" id="node1" title="save Resolved WL ambiguities" alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="171,5,251,32"/>
+<area shape="rect" id="node4" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="155,56,266,83"/>
+<area shape="rect" id="node5" href="$structGTime.html#a64394968bbfdecbbeec4ba5134fdb682" title=" " alt="" coords="152,107,269,133"/>
+<area shape="rect" id="node7" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="168,157,253,184"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="317,5,416,32"/>
+<area shape="rect" id="node6" href="$gTime_8cpp.html#a016d7b64e67752afcd07e5074a3cc516" title=" " alt="" coords="332,107,401,133"/>
+</map>

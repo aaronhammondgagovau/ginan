@@ -1,0 +1,7 @@
+<map id="ObsStream::getObs" name="ObsStream::getObs">
+<area shape="rect" id="node1" title="Return a list of observations from the stream." alt="" coords="224,81,360,108"/>
+<area shape="rect" id="node2" href="$structNtripRtcmStream.html#a7ae2807fa53dc422270a34553e1f80c9" title="Return a list of observations from the stream." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$structFileRtcmStream.html#a60fb40d30b75c23712ce49ff8b9655ab" title="Return a list of observations from the stream." alt="" coords="9,56,173,83"/>
+<area shape="rect" id="node4" href="$structFileRinexStream.html#a8032f619708821820655c1ed3c7f2e57" title="Return a list of observations from the stream." alt="" coords="8,107,173,133"/>
+<area shape="rect" id="node5" href="$structObsStream.html#a6d0ad39e5f301fc9455cfe5d9d3c3f99" title="Return a list of observations from the stream, with a specified timestamp." alt="" coords="23,157,159,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SatStat" name="SatStat">
+<area shape="rect" id="node1" title="Object containing persistant status parameters of individual satellites." alt="" coords="47,80,114,107"/>
+<area shape="rect" id="node2" href="$structIonoStat.html" title=" " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$structQC.html" title=" " alt="" coords="100,5,141,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="obs2lc" name="obs2lc">
+<area shape="rect" id="node1" title="Function to prepare some predefined linear combinations from an observation." alt="" coords="367,5,427,32"/>
+<area shape="rect" id="node2" href="$linearCombo_8cpp.html#a600e3c4eaf808e42c88785d56dc70350" title="Function to prepare some predefined linear combinations from a list of observations." alt="" coords="252,5,319,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a7e63aa887c069bdb77cd28a88ad18562" title="Perform operations for each station This function occurs in parallel with other stations &#45; ensure tha..." alt="" coords="5,5,204,32"/>
+</map>

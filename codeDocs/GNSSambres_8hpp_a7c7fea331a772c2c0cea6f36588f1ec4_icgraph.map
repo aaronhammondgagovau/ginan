@@ -1,0 +1,7 @@
+<map id="updt_net_pivot" name="updt_net_pivot">
+<area shape="rect" id="node1" title="Update network pivot." alt="" coords="435,42,541,69"/>
+<area shape="rect" id="node2" href="$GinAR__main_8cpp.html#a5d80c7f56e03c96dc400839ceca50698" title="Ambiguity resolution for network solutions." alt="" coords="254,15,385,42"/>
+<area shape="rect" id="node4" href="$GinAR__main_8cpp.html#a99547395860accf77f4d3dc4328cb139" title="Ambiguity resolution on smoothed KF solutions." alt="" coords="252,67,387,94"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a052aae1f895ebdbdaf816f70d9287e78" title=" " alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node5" href="$rtsSmoothing_8cpp.html#a1f9da32a7b5e95391d55a3242aebfb10" title="Output filter states from a reversed binary trace file." alt="" coords="57,71,152,98"/>
+</map>

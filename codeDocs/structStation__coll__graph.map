@@ -1,0 +1,22 @@
+<map id="Station" name="Station">
+<area shape="rect" id="node1" title="Object to maintain receiver station data." alt="" coords="1197,559,1260,586"/>
+<area shape="rect" id="node2" href="$structIonoStation.html" title=" " alt="" coords="927,91,1015,118"/>
+<area shape="rect" id="node3" href="$structStationLogs.html" title=" " alt="" coords="627,105,719,131"/>
+<area shape="rect" id="node4" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="14,190,75,217"/>
+<area shape="rect" id="node11" href="$structKFState.html" title="Kalman filter object." alt="" coords="295,267,366,294"/>
+<area shape="rect" id="node12" href="$structSolution.html" title="Solution of user mode processing functinos." alt="" coords="639,222,708,249"/>
+<area shape="rect" id="node20" href="$structPseudoObs.html" title=" " alt="" coords="628,449,719,475"/>
+<area shape="rect" id="node5" title=" " alt="" coords="253,5,408,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="257,211,404,238"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,506,84,533"/>
+<area shape="rect" id="node8" href="$structRinexStation.html" title=" " alt="" coords="626,673,721,699"/>
+<area shape="rect" id="node13" href="$structPhaseCenterData.html" title=" " alt="" coords="432,407,556,434"/>
+<area shape="rect" id="node15" href="$structprcopt__t.html" title="Legacy processing options from rtklib." alt="" coords="639,398,708,425"/>
+<area shape="rect" id="node16" href="$structSinex__stn__snx__t.html" title=" " alt="" coords="615,735,732,762"/>
+<area shape="rect" id="node18" href="$structObs.html" title="Observation, and data derived from it." alt="" coords="650,823,697,850"/>
+<area shape="rect" id="node9" title=" " alt="" coords="293,599,368,626"/>
+<area shape="rect" id="node10" href="$structrtk__t.html" title=" " alt="" coords="947,305,995,331"/>
+<area shape="rect" id="node14" title=" " alt="" coords="580,171,767,198"/>
+<area shape="rect" id="node17" title=" " alt="" coords="907,803,1035,830"/>
+<area shape="rect" id="node19" title=" " alt="" coords="885,487,1057,514"/>
+</map>

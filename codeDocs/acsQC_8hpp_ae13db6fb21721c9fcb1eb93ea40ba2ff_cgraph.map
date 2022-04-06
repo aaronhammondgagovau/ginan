@@ -1,0 +1,15 @@
+<map id="detectslips" name="detectslips">
+<area shape="rect" id="node1" title="Detect slips for multiple observations." alt="" coords="5,366,91,392"/>
+<area shape="rect" id="node2" href="$acsQC_8cpp.html#a099d227578f6d7896777651aca60fe1b" title="Cycle slip detection and repair." alt="" coords="139,163,217,190"/>
+<area shape="rect" id="node6" href="$streamTrace_8cpp.html#a26d8a8c49d22d1ec101a45f8ee2e1fcc" title=" " alt="" coords="421,11,493,38"/>
+<area shape="rect" id="node7" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="415,366,500,392"/>
+<area shape="rect" id="node11" href="$acsQC_8cpp.html#a0d2d4fd45a0cdf961784d89cc132442e" title="Detect cycle slip by geometry free phase jump." alt="" coords="279,340,353,367"/>
+<area shape="rect" id="node12" href="$acsQC_8cpp.html#a7cae7a76a291c0a56b01d929cb94e3ff" title="Detect cycle slip by reported loss of lock." alt="" coords="143,492,213,519"/>
+<area shape="rect" id="node13" href="$acsQC_8cpp.html#a36663ab87649ee3624e072af7fec6409" title="Detect slip by Melbourne&#45;Wubbena linear combination jump." alt="" coords="273,391,359,418"/>
+<area shape="rect" id="node3" href="$acsQC_8cpp.html#ae52b478bb7d30e6aaf8f0e6b4e526681" title="Cycle slip detection and repair for dual&#45;frequency." alt="" coords="277,87,355,114"/>
+<area shape="rect" id="node4" href="$linearCombo_8cpp.html#afdd3451cef793c3574f718f2f79d9278" title="Create combinations between specific observation values." alt="" coords="429,188,486,215"/>
+<area shape="rect" id="node5" href="$gTime_8cpp.html#abf196aa655d8ca10168c2301a68a8101" title=" " alt="" coords="418,87,497,114"/>
+<area shape="rect" id="node8" href="$acsQC_8cpp.html#a50b9ebf4a56ec6edec979531b0515887" title="Cycle slip detection and repair for triple&#45;frequency." alt="" coords="277,138,355,164"/>
+<area shape="rect" id="node9" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="267,239,365,266"/>
+<area shape="rect" id="node10" href="$rtkcmn_8cpp.html#a340ba63f81ed21d7574d279d6da9ca0c" title="Low pass filter values." alt="" coords="265,290,367,316"/>
+</map>

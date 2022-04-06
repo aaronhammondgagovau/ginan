@@ -1,0 +1,11 @@
+<map id="Reset_sat" name="Reset_sat">
+<area shape="rect" id="node1" title="Reset satellite on network pivot." alt="" coords="5,195,87,221"/>
+<area shape="rect" id="node2" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="507,5,587,32"/>
+<area shape="rect" id="node4" href="$GinARpivot_8cpp.html#aa6bd501576fa27cf1dc55b457809b0e4" title="Add ambiguity to pivot tree." alt="" coords="151,296,229,323"/>
+<area shape="rect" id="node5" href="$GinARWLamb_8cpp.html#a860a609b53dc98b39334196fb6e0183e" title="Remove ambiguities and biases for satellites, network." alt="" coords="135,144,245,171"/>
+<area shape="rect" id="node8" href="$streamTrace_8cpp.html#ae00e6addd3bdf3a7fd41a254eb9aec89" title=" " alt="" coords="505,195,590,221"/>
+<area shape="rect" id="node3" href="$structSatSys.html#adbdf98ba1ef1f22b6aaed93916529513" title="Sets a 4 character c_string of this satellite&#39;s id." alt="" coords="651,5,749,32"/>
+<area shape="rect" id="node6" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="492,68,603,95"/>
+<area shape="rect" id="node7" href="$structKFState.html#abdf1505bdab1895a280fd018979849f1" title="Remove a state from a kalman filter object." alt="" coords="293,144,444,171"/>
+<area shape="rect" id="node9" href="$GinARWLamb_8cpp.html#aff0cccb14678a58071b729bac061e776" title="save Resolved WL ambiguities" alt="" coords="319,43,418,69"/>
+</map>

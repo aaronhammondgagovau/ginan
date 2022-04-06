@@ -1,0 +1,8 @@
+<map id="GNSS_AR" name="GNSS_AR">
+<area shape="rect" id="node1" title="Ambiguity resolution function for Ginan." alt="" coords="524,31,609,57"/>
+<area shape="rect" id="node2" href="$GinARWLamb_8cpp.html#a6cfe77e4642a57d54c9204244cd403a0" title="Resolve wide&#45;lane ambiguities." alt="" coords="367,5,476,32"/>
+<area shape="rect" id="node5" href="$GinARNLamb_8cpp.html#a150b7e4a892320cadb8bfd4c813a1aca" title="Update float ambiguity estimates." alt="" coords="371,56,471,83"/>
+<area shape="rect" id="node3" href="$GinARWLamb_8cpp.html#a12713865301eea1dac84952dd9fd1149" title="Update WL ambiguities and save then to archive." alt="" coords="195,5,308,32"/>
+<area shape="rect" id="node4" href="$GinAR__main_8cpp.html#a5d80c7f56e03c96dc400839ceca50698" title="Ambiguity resolution for network solutions." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node6" href="$GinAR__main_8cpp.html#a99547395860accf77f4d3dc4328cb139" title="Ambiguity resolution on smoothed KF solutions." alt="" coords="184,107,319,133"/>
+</map>

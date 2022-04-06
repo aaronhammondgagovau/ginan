@@ -1,0 +1,12 @@
+<map id="FileRtcmStream" name="FileRtcmStream">
+<area shape="rect" id="node1" title="Object that streams RTCM data from a file." alt="" coords="193,275,309,301"/>
+<area shape="rect" id="node2" href="$structACSFileStream.html" title="Interface to be used for file streams." alt="" coords="179,199,291,225"/>
+<area shape="rect" id="node3" href="$structRtcmStream.html" title=" " alt="" coords="316,199,411,225"/>
+<area shape="rect" id="node4" href="$structObsStream.html" title="Interface for streams that supply observations." alt="" coords="115,95,203,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node6" href="$structNavStream.html" title="Interface for objects that provide navigation data." alt="" coords="227,95,315,121"/>
+<area shape="rect" id="node7" href="$structRtcmDecoder.html" title=" " alt="" coords="477,95,578,121"/>
+<area shape="rect" id="node8" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="385,5,446,32"/>
+<area shape="rect" id="node9" href="$structLockTimeInfo.html" title=" " alt="" coords="603,95,705,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="746,95,874,121"/>
+</map>

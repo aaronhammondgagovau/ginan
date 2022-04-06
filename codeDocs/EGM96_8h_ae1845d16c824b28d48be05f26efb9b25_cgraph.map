@@ -1,0 +1,8 @@
+<map id="egm96_compute_altitude_offset" name="egm96_compute_altitude_offset">
+<area shape="rect" id="node1" title="Compute the geoid undulation from the EGM96 potential coefficient model, for a given latitude and lon..." alt="" coords="5,74,172,115"/>
+<area shape="rect" id="node2" href="$EGM96_8c.html#abd569be3694acc812c754ffc05026d14" title="Compute the geoid undulation from the EGM96 potential coefficient model, for a given latitude and lon..." alt="" coords="220,81,301,108"/>
+<area shape="rect" id="node3" href="$EGM96_8c.html#a7b10c6becf3e8ad3f2d0312bbad9de56" title=" " alt="" coords="350,5,407,32"/>
+<area shape="rect" id="node4" href="$EGM96_8c.html#aa316fb1f9f56faa7306373b790f28629" title=" " alt="" coords="350,56,407,83"/>
+<area shape="rect" id="node5" href="$EGM96_8c.html#a8c85a3115be85a9f5e7b178634b5d837" title=" " alt="" coords="350,107,407,133"/>
+<area shape="rect" id="node6" href="$EGM96_8c.html#a9e3a8a3178041fc1a5f8a774ffa975a9" title=" " alt="" coords="349,157,408,184"/>
+</map>

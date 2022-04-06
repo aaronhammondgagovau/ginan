@@ -1,0 +1,12 @@
+<map id="NtripSourceTable" name="NtripSourceTable">
+<area shape="rect" id="node1" title=" " alt="" coords="877,51,1000,77"/>
+<area shape="rect" id="node2" href="$structNtripSocket.html" title=" " alt="" coords="599,237,690,264"/>
+<area shape="rect" id="node3" href="$structNetworkStatistics.html" title=" " alt="" coords="273,237,399,264"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,176,84,203"/>
+<area shape="rect" id="node8" href="$structURL.html" title=" " alt="" coords="311,288,361,315"/>
+<area shape="rect" id="node10" href="$structSourceTableEntry.html" title=" " alt="" coords="274,43,398,69"/>
+<area shape="rect" id="node5" title=" " alt="" coords="268,405,404,446"/>
+<area shape="rect" id="node6" title=" " alt="" coords="269,94,403,135"/>
+<area shape="rect" id="node7" title=" " alt="" coords="268,339,404,381"/>
+<area shape="rect" id="node9" title=" " alt="" coords="561,43,728,85"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SatSys::biasGroup" name="SatSys::biasGroup">
+<area shape="rect" id="node1" title="Returns the bias group associated with this satellite." alt="" coords="361,31,491,57"/>
+<area shape="rect" id="node2" href="$networkEstimator_8cpp.html#a36828506971a6b66c6e61db51197c9e1" title="Estimates parameters for a network of stations simultaneously." alt="" coords="191,5,313,32"/>
+<area shape="rect" id="node4" href="$ppp__user_8cpp.html#a6840432dd58d1e58178b15080b92bdd8" title=" " alt="" coords="215,56,289,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a30c68344d30ddfe1e926f8472b86f094" title=" " alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node5" href="$ppp__user_8cpp.html#aad22d0ff0d06af12ea66aefd09d89af3" title=" " alt="" coords="45,56,103,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="read_biasnx_fil" name="read_biasnx_fil">
+<area shape="rect" id="node1" title="Read single bias SINEX file." alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node2" href="$biasSINEXread_8cpp.html#a7bedabb30d7e162ea04c4027051041f6" title="Read header line in bias SINEX file." alt="" coords="160,56,313,83"/>
+<area shape="rect" id="node3" href="$biasSINEXread_8cpp.html#afe3e2e7c8dbfe8bd5991dbbdac91ede2" title="Read data line in bias SINEX file." alt="" coords="164,107,309,133"/>
+<area shape="rect" id="node4" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="380,5,460,32"/>
+<area shape="rect" id="node5" href="$biasSINEXread_8cpp.html#a6a51f9914e96ab2fec060c9463b86ae4" title="Push forward and reverse bias entry into the SINEXBiases map." alt="" coords="366,56,474,83"/>
+<area shape="rect" id="node6" href="$biasSINEXread_8cpp.html#a60d652eca6b75444a65b96a6dbdb4f3e" title="Convert time string in bias SINEX to gtime struct." alt="" coords="364,107,476,133"/>
+<area shape="rect" id="node7" href="$biasSINEXread_8cpp.html#a67c1c7b63f5be7f1efbc0e06a3f581fc" title="Convert observation code string to enum code." alt="" coords="384,157,456,184"/>
+<area shape="rect" id="node8" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="361,208,479,235"/>
+</map>
