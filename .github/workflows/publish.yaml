@@ -13,6 +13,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: Create folders
+      run: |
+        mkdir -p src/build
     
     # Build the HTML documentation
     - name: Doxygen Action
